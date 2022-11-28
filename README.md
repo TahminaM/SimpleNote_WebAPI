@@ -3,7 +3,7 @@
 
 https://github.com/HeshamD/SimpleNote_WebAPI/blob/master/NoteTaking_ERD.pdf
 
-## Concepts 
+## Concepts:
 
 1. Domain-Driven Design architecture
 2. Object-Relational Mapping (ORM) >>  Entity Framework (EF)
@@ -22,16 +22,35 @@ https://github.com/HeshamD/SimpleNote_WebAPI/blob/master/NoteTaking_ERD.pdf
 - [X] This project does not deal with the administration of the users, projects, or attributes
 
 ### Users have the following properties:
-- [X]
-- [X]
-- [X]
-- [X]
-- [X]
-- [X]
-- [X]
-- [X]
-- [X]
-- [X]
-- [X]
-- [X]
-- [X]
+- [X] UserId
+- [X] Username (must be unique)
+- [X] Password
+- [X] Creation timestamp
+- [X] Last login timestamp
+
+### Notes have the following properties:
+- [X] NoteId
+- [X] Creation timestamp
+- [X] Note text
+- [X] Project
+- [X] Attribute[]
+
+### Projects have the following properties:
+- [X] ProjectId
+- [X] Name (must be unique)
+
+### Attributes have the following properties:
+- [X] AttributeId
+- [X] Name (must be unique)
+
+### The API have the following properties:
+- [X] Login(username, password) - returns a token
+- [X] Logout(token)
+- [X] NewNote(NoteId, NoteText, Project, Attibute[])
+- [X] UpdateNote(token, NoteId, NoteText)
+- [X] DeleteNote(token, NoteId)
+- [X] GetNotes(token, ProjectId, AttributeId[]) – Specifying a project will return notes for that
+project only. Not specifying a project will return notes for all projects. Specifying attributeIds will return only notes that have those attributes. Not specifying attributeIds will return all notes regardless of attributes.
+- [X] GetProjectNoteCounts(token) – Returns a count of notes for each project, an a count of notes not belonging to any project.
+- [X] GetAttributeNoteCounts(token) – Returns a count of notes for each attribute, and a count of notes without attributes.
+
