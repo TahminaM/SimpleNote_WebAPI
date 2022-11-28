@@ -15,3 +15,23 @@ https://github.com/HeshamD/SimpleNote_WebAPI/blob/master/NoteTaking_ERD.pdf
 
 ## Code Explanation: 
 - [X] Develop a simple note taking system and a web API front end
+- [X] Users will work with notes
+- [X] Notes may or may not belong to a project
+- [X] Notes will have zero or more attributes
+- [X] Use a simple authentication model (login and password)
+- [X]This project does not deal with the administration of the users, projects, or attributes
+
+### Users have the following properties:
+- [X]
+- [X]
+- [X]
+- [X]
+- [X]
+- [X]
+- [X]
+- [X]
+- [X]
+- [X]
+- [X]
+- [X]
+- [X]
