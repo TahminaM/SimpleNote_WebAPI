@@ -19,7 +19,7 @@ https://github.com/HeshamD/SimpleNote_WebAPI/blob/master/NoteTaking_ERD.pdf
 - [X] Notes may or may not belong to a project
 - [X] Notes will have zero or more attributes
 - [X] Use a simple authentication model (login and password)
-- [X]This project does not deal with the administration of the users, projects, or attributes
+- [X] This project does not deal with the administration of the users, projects, or attributes
 
 ### Users have the following properties:
 - [X]
