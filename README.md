@@ -1,7 +1,7 @@
 
 ## Database Entity Relational Digram (ERD)
 
-https://github.com/HeshamD/SimpleNote_WebAPI/blob/master/NoteTaking_ERD.pdf
+https://github.com/TahminaM/SimpleNote_WebAPI/blob/main/NoteTaking_ERD.pdf
 
 ## Concepts:
 
