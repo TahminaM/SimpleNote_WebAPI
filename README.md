@@ -55,3 +55,8 @@ project only. Not specifying a project will return notes for all projects. Speci
 - [X] GetProjectNoteCounts(token) – Returns a count of notes for each project, an a count of notes not belonging to any project.
 - [X] GetAttributeNoteCounts(token) – Returns a count of notes for each attribute, and a count of notes without attributes.
 
+
+### API EndPoints:
+
+![][Screenshot-2022-12-10-at-12.27.15-AM.gif]
+
