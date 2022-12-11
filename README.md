@@ -60,5 +60,5 @@ project only. Not specifying a project will return notes for all projects. Speci
 
 
 
-![](Endpoint.png)
+![](Endpoints.png)
 
