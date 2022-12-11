@@ -56,7 +56,7 @@ project only. Not specifying a project will return notes for all projects. Speci
 - [X] GetAttributeNoteCounts(token) – Returns a count of notes for each attribute, and a count of notes without attributes.
 
 
-### API EndPoints:
+### SimpleNote_WebAPI EndPoints:
 
 
 
