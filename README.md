@@ -58,5 +58,7 @@ project only. Not specifying a project will return notes for all projects. Speci
 
 ### API EndPoints:
 
-+![Endpoints](file:///Users/tahminamunni/Downloads/Screenshot-2022-12-10-at-12.27.15-AM.gif)
+
+
++![](http://Screenshot-2022-12-10-at-12.27.15-AM.gif)
 
