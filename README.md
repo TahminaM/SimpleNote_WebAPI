@@ -50,16 +50,14 @@ https://github.com/TahminaM/SimpleNote_WebAPI/blob/main/NoteTaking_ERD.pdf
 - [X] NewNote(NoteId, NoteText, Project, Attibute[])
 - [X] UpdateNote(token, NoteId, NoteText)
 - [X] DeleteNote(token, NoteId)
-- [X] GetNotes(token, ProjectId, AttributeId[]) – Specifying a project will return notes for that
-project only. Not specifying a project will return notes for all projects. Specifying attributeIds will return only notes that have those attributes. Not specifying attributeIds will return all notes regardless of attributes.
+- [X] GetNotes(token, ProjectId, AttributeId[]) – Specifying a project will return notes for that project only. Not specifying a project will return notes for all projects. Specifying attributeIds will return only notes that have those attributes. Not specifying attributeIds will return all notes regardless of attributes.
 - [X] GetProjectNoteCounts(token) – Returns a count of notes for each project, an a count of notes not belonging to any project.
 - [X] GetAttributeNoteCounts(token) – Returns a count of notes for each attribute, and a count of notes without attributes.
+
 
 
 ## SimpleNote_WebAPI EndPoints:
 
 ![](Endpoints.png)
 
-## Database Entity Relational Digram (ERD)
 
-![](NoteTaking_ERD.pdf)
