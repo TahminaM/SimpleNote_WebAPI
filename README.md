@@ -58,7 +58,8 @@ project only. Not specifying a project will return notes for all projects. Speci
 
 ## SimpleNote_WebAPI EndPoints:
 
-
-
 ![](Endpoints.png)
 
+## Database Entity Relational Digram (ERD)
+
+![](https://github.com/TahminaM/SimpleNote_WebAPI/blob/main/NoteTaking_ERD.pdf)
