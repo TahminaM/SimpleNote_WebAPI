@@ -62,4 +62,4 @@ project only. Not specifying a project will return notes for all projects. Speci
 
 ## Database Entity Relational Digram (ERD)
 
-![](https://github.com/TahminaM/SimpleNote_WebAPI/blob/main/NoteTaking_ERD.pdf)
+![](NoteTaking_ERD.pdf)
