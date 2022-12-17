@@ -59,5 +59,6 @@ https://github.com/TahminaM/SimpleNote_WebAPI/blob/main/NoteTaking_ERD.pdf
 ## SimpleNote_WebAPI EndPoints:
 
 ![](Endpoints.png)
-
+![](Endpoints1.png)
+![](Endpoints2.png)
 
